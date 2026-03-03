@@ -22,11 +22,6 @@ Este arquivo HTML é parte dos meus estudos sobre como **incorporar imagens** em
 - ✅ **GIFs animados** como imagens
 - ✅ Imagens com **fundo transparente** (PNG)
 
-## 🖥️ Exemplos do Código
-
-<body bgcolor="#ff6600">
-<img src="imagens/imagem_github.png" alt="Logo do github">
-
 ### Estrutura da Pasta
 
 ```
