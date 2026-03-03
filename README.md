@@ -26,7 +26,6 @@ Este arquivo HTML é parte dos meus estudos sobre como **incorporar imagens** em
 
 <body bgcolor="#ff6600">
 <img src="imagens/imagem_github.png" alt="Logo do github">
-<img src="https://cdn.dribbble.com/userupload/18586614/file/original-9625d0dcbb3637317ba8ce9839a29f02.gif" alt="Gif animado com logo do html rodando">
 
 ### Estrutura da Pasta
 
