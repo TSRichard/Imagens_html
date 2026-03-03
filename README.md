@@ -25,20 +25,14 @@ Este arquivo HTML é parte dos meus estudos sobre como **incorporar imagens** em
 ### Estrutura da Pasta
 
 ```
-projeto-imagens/
+imagens_html/
 │
 ├── imagem.html
+├── README.md
 └── imagens/
     ├── imagem_github.png
     ├── imagem_linkedin.png
     └── imagem_programador.png
-```
-
-## 📁 Estrutura do Projeto
-```
-aula-html/
-├── 📄 imagem.html
-└── 📖 README.md
 ```
 
 ## 💻 Como Visualizar o Projeto
